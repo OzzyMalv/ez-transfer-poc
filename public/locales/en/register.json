@@ -1,0 +1,11 @@
+{
+  "register.title": "Sign up",
+  "register.subtitle.login<1>link</1>": "Got a Peach Go Account? <1>Log in</1>",
+  "register.form.label.email": "Work Email",
+  "register.form.label.password": "Password",
+  "register.form.label.marketingOption": "Keep me up to date with product updates, offers, news, events and information",
+  "register.form.button.signUp": "Sign up for free",
+  "register.form.text.terms<1>link</1>": "By signing up you agree to our <1>Terms and Conditions</1>",
+  "register.marketing.heading": "Get your campaign workflow <italic>flowing</italic>",
+  "register.marketing.subheading": "It just takes a few moments to sign up. Start a free trial to get <strong>file transfers</strong> up to 5GB, <strong>5x faster creative QA</strong> for CTV, ad platforms and social, plus <strong>rich file previews and metadata</strong> for video, audio, image and HTML5 ads"
+}

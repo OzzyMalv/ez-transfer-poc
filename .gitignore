@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#env
+.env.local
+
+# dependencies
+/node_modules
+
+# production
+.next
+
+# misc
+README2.md
+
+
+# VS Code Project Files
+.vscode
+
+/coverage
+
+.idea/
+.DS_Store
+
+# tsc generate this file on incremental enabled (also next have the same file in cache)
+tsconfig.tsbuildinfo

@@ -1,0 +1,13 @@
+{
+  "receiver.heading": "Get your assets moving",
+  "receiver.paragraph": "Powerfully simple file transfer — designed with and for advertising people. We’re building a fast, precise and secure tool that will change how your campaigns go live.",
+  "receiver.sub.paragraph": "What’s next? Platform integrations, rich asset preview, file QC, AI creative analytics and more…",
+  "receiver.virusCheck.message": "Files safe from virus and malware",
+  "receiver.form.heading": "You got files!",
+  "receiver.form.paragraph": " sent you {{count}} files, {{size}} in total - Expires on {{expiryDate}}",
+  "receiver.form.submitBtn": "Continue",
+  "receiver.form.password.label": "Password",
+  "receiver.form.password.input.placeholder": "Enter password",
+  "receiver.form.terms.toast<1>link</1>": "By clicking continue, you agree to our <1>Terms and Conditions</1>",
+  "receiver.form.password.error.tooltip": "Password is incorrect"
+}

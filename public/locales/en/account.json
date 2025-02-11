@@ -1,0 +1,16 @@
+{
+  "account.tab.personal_info": "Personal info",
+  "account.tab.preferences": "Preferences",
+  "account.title": "Personal info",
+  "account.description": "View and edit your account information",
+  "account.text.profile": "Profile",
+  "account.text.security.heading": "Security",
+  "account.text.security.Email": "Email",
+  "account.text.security.change_password": "Change Password",
+  "account.text.security.changeassword_link_text": "We'll email you a link to change password",
+  "account.text.security.Change": "Change",
+  "account.tab.plansAndBilling": "Plans and Billing",
+  "account.text.plansAndBilling.heading": "Plans and Billing",
+  "account.plansAndBilling.btn.manageBilling": "Manage billing",
+  "account.navigation.subheader.title.Account": "Account"
+}

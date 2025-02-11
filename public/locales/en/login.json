@@ -1,0 +1,14 @@
+{
+  "login.title.log_in": "Log in",
+  "login.title.welcome_back": "Welcome back.",
+  "login.subtitle.signUp<1>link</1>": "New to Peach Go? <1>Sign up for free</1>",
+  "login.form.button.logIn": "Log in",
+  "login.form.label.email": "Work Email",
+  "login.form.label.password": "Password",
+  "login.subtitle.successToken": "Get ready to get your workflow flowing.<br>It’s great to have you aboard.",
+  "login.form.link.reset_password?": "Reset password?",
+  "login.modal.marketing.headline": "You got files!",
+  "login.modal.marketing.subheadline.one": "{{email}} sent you {{files}} files.",
+  "login.modal.marketing.subheadline.two": "Preview, download, QA, check safe zones and more with Peach Go: a smarter, faster and more secure creative workflow.",
+  "login.modal.marketing.subheadline.three<1>link</1>": "Built by Peach, the global advertising experts trusted by 1000s every day. <1>Learn more…</1>"
+}

@@ -1,0 +1,15 @@
+{
+  "sender.form.message.label": "Message (Optional)",
+  "sender.form.qcTooltipExplain": "Get a link to share, or check your assets are ready for CTV, DSPs and ad platforms",
+  "sender.form.receiversEmails.invalid": "One of the email addresses you entered is incorrect",
+  "sender.form.receiversEmails.input.placeholder": "Add emails",
+  "sender.form.receiversEmails.input.label": "Send to",
+  "sender.form.receiversEmails.extraMails.chip": "+{{count}} other",
+  "sender.form.password.label": "Password",
+  "sender.password.info.tooltip": "Don’t worry, we’ll email the password to the recipients.",
+  "sender.workspace.form.heading": "Send files",
+  "sender.workspace.form.qcFirstToggle.sendFiles": "Email",
+  "sender.workspace.form.qcFirstToggle.qcFirst": "Get link",
+  "sender.workspace.form.sendBtn": "Send",
+  "sender.workspace.form.access.info": "Access expires {{date}}"
+}

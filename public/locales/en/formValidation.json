@@ -1,0 +1,17 @@
+{
+  "form_validation.form.validation.emailError": "Email address doesn't look right. Please try again.",
+  "form_validation.form.validation.combinationError": "Email and password combination not valid.",
+  "form_validation.form.validation.takenEmailError": "The email is already taken. Please log in.",
+  "form_validation.form.password.hint.length": "At least 10 characters",
+  "form_validation.form.password.hint.uppercase": "One uppercase letter (A-Z)",
+  "form_validation.form.password.hint.lowercase": "One lowercase letter (a-z)",
+  "form_validation.form.password.hint.number": "One number (0-9)",
+  "form_validation.form.password.error.spaces": "Password should not start or end with blank spaces",
+  "form_validation.form.validation.required": "This field can't be empty",
+  "form_validation.form.validation.serverError": "Something went wrong. Please try again later",
+  "form_validation.form.error.name.char.limit": "Must be 64 characters or less",
+  "form_validation.form.error.password.char.limit": "Please use a password with up to 24 characters.",
+  "form_validation.form.error.passwordEmpty": "Oops! You forgot to add a password.",
+  "form_validation.form.error.password.char.space": "Password should not contain blank spaces.",
+  "form_validation.form.validation.invalid.characters": "Invalid characters <>:\"/|?*"
+}
